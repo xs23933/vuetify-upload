@@ -1,0 +1,19 @@
+{
+  "name": "vuetify-upload",
+  "version": "1.0.1",
+  "description": "vuetify upload component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"vuetify upload component\" && exit 1"
+  },
+  "author": "xs23933@gmail.com",
+  "license": "ISC",
+  "homepage": "https://github.com/xs23933/vuetify-upload#readme",
+  "dependencies": {
+    "dropzone": "^5.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xs23933/vuetify-upload.git"
+  }
+}
